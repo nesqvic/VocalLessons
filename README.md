@@ -8,4 +8,3 @@
       1. [Mama Said](/texts/metallica/mama%20said.md)
    1. Bad Wolves
       1. [Zombie](/texts/bad%20wolves/zombie.md)
-      1. [Mama Said](/texts/metallica/mama%20said.md)
