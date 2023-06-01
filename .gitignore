@@ -3,3 +3,6 @@
 
 # Media files
 *.wav
+
+# Visual Studio Code workspace
+*.code-workspace
