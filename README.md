@@ -15,3 +15,6 @@
       1. Dream on
    1. Витас
       1. Опера №2
+   1. Falling in Reverse
+      1. The Drug In Me Is You
+      1. Popular Monster
